@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media1.tenor.com/m/E73aHdNnj2AAAAAd/yoriko-nikaidou.gif" width="150" />
 </p>
 
 ---
